@@ -1,6 +1,7 @@
-streamlit==1.31.1
-numpy
-pandas
+tensorflow
+tensorboard
 scikit-learn
+pandas
+numpy
+streamlit
 matplotlib
-tensorflow-cpu
