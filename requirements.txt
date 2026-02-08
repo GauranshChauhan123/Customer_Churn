@@ -5,3 +5,4 @@ pandas
 numpy
 streamlit
 matplotlib
+protobuf<4.0.0
